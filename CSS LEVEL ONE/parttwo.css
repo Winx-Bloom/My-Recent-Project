@@ -1,0 +1,25 @@
+/* Selected tag {
+    property : value 
+} */
+
+body {
+    background: url(duolingo_edited.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(17, 126, 228); 
+}
+div{
+    color: rgb(255, 123, 0);
+}
+span{
+    color: green;
+}
+h2{
+    color: rgb(255, 8, 0);
+}
+table{
+    color: maroon;
+}
+table thead{
+    color: rgb(39, 124, 235);
+}

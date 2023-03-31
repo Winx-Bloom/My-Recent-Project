@@ -1,0 +1,32 @@
+/* Selected tag{
+    property : value
+} */
+
+body{
+  background: url(duolingo_edited.jpg) ;
+  background-size: cover;
+}
+.firstDiv{
+  color: purple;
+  border-color : tomato;
+  border-width : thick;
+  border-style: solid;
+}
+
+.secondDiv {
+  color: brown;
+
+}
+.thirdDiv{
+  color: royalblue;
+}
+.path {
+  color: red;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#Slogan{
+  color: firebrick;
+   font-size: large;
+   font-style: italic;
+}
